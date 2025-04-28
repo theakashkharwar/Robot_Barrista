@@ -15,7 +15,7 @@ name = (input("What is your Name?\n"))
 if name == "Ben" or name == "Patricia" or name == "Loki":
 
     Ques = input("Are You Evil????\n")
-    Heroism = int(input("\nHow many good deeds have u done today??\n")) 
+    Heroism = int(input("\nHow many good deeds have u done today?? It would be really nice if u tell us\n")) 
 
     if Ques == "Yes" and Heroism < 4:
         print("\nYou'r Not welcom here " + name + "!!!!!!!!!!!!!!!!!!!!!!!")
