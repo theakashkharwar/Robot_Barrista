@@ -72,7 +72,7 @@ elif order == "Chai":
 elif order == "Venti":
     price = 25
 
-elif order == "Frappuccino":
+elif order == "Whisky":
     price = 40
 else:
     print("Sorry, We don't have that in here")
