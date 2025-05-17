@@ -33,8 +33,8 @@ Ques2 = input("\nIs your beard length more than 1 inch???\n")
 if Ques1 == "Yes":
     if Ques2 == "Yes":
         print("\nYou can skip the Line and Go to the front, For your order!!!!\n")
-else: 
-    print("You Have to wait in the line as a regular customer\n\n\n")
+    else: 
+        print("You Have to wait in the line as a regular customer\n\n\n")
          
     
 
@@ -72,7 +72,7 @@ elif order == "Chai":
 elif order == "Venti":
     price = 25
 
-elif order == "Whisky":
+elif order == "Frappacino":
     price = 40
 else:
     print("Sorry, We don't have that in here")
