@@ -25,7 +25,6 @@ if name == "Ben" or name == "Patricia" or name == "Loki":
 
 
 # Checking: How long is their beard as people with long beard are our priority customers.
-
 Ques1 = input("\nDo you have beard???\n")
 Ques2 = input("\nIs your beard length more than 1 inch???\n")
 
