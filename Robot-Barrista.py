@@ -6,7 +6,6 @@ print("\n\n---------------------------------------------Hello Welcome to our Bar
 
 
 # Using if else statements to to check, the identity of the customer 
-
 # Checking If : They are Ben, Patricia, or Loki.
 #               Are they Evil or not??
 #               How Many good deeds they have done today.
