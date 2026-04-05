@@ -37,7 +37,7 @@ if Ques1 == "Yes":
     
 
 
-#  -------------------------------------------------------------------------------Greetings and asking for order-----------------------------------------------------------------------
+#  ------------------------------------------------------------------------------Greetings and asking for order-----------------------------------------------------------------------
 
 
 # CONCEPT :- Variables = its the data that changes according to user, situation etc. that is its not a constant data stored in memory, instead we create particular space in the memory for the information user have to share, for that we use varibales
